@@ -1,5 +1,25 @@
 # 💫 About Me:
-I’m a former Software Engineering Intern and currently working as a freelance full-stack developer, delivering real-world solutions such as a Point of Sale (POS) System and an Indoor Facility Booking Application.<br><br>I’m passionate about building user-centric, scalable applications that solve real-world problems. I enjoy working across the stack with modern technologies like Next.js, React.js, and Angular on the frontend, and .NET Framework and Node.js on the backend.<br><br>I also have hands-on experience with cloud platforms like Azure, containerization using Docker, and basic DevOps practices that ensure reliable deployments and continuous delivery.<br><br>My goal is to grow as a software engineer by contributing to impactful projects, collaborating with talented teams, and staying current with emerging technologies and industry best practices.<br><br>
+👋 Hi there! I'm Mushahid, a passionate full-stack developer and aspiring Software Engineer.
+
+🔧 I currently working on building real-world applications like:
+
+🧾 A Point of Sale (POS) System for retail operations
+
+🏟️ An Indoor Facility Booking Platform for sports/stadium reservations
+
+💻 I specialize in modern web technologies:
+
+Frontend: React.js, Next.js, Angular
+
+Backend: Node.js, .NET Framework
+
+DevOps & Cloud: Docker, Azure, basic CI/CD practices
+
+🚀 I love crafting scalable, user-centric applications that solve real problems and bring value to end users.
+
+🎯 My goal is to continuously grow as a developer, contribute to impactful projects, and collaborate with teams building the future of tech.
+
+
 
 
 ## 🌐 Socials:
