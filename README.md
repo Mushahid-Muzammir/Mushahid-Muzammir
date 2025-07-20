@@ -1,7 +1,6 @@
-# 💫 About Me:
 👋 Hi there! I'm Mushahid, a passionate full-stack developer and aspiring Software Engineer.
 
-🔧 I currently working on building real-world applications like:
+🔧 I am currently working on building real-world applications like:
 
 🧾 A Point of Sale (POS) System for retail operations
 
