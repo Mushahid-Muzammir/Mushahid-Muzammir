@@ -1,23 +1,12 @@
-👋 Hi there! I'm Mushahid, a passionate full-stack developer and aspiring Software Engineer.
+👋 Hi there! I'm Mushahid, a passionate full-stack developer and aspiring Software Engineer currently working on building real-world applications like:
 
-🔧 I am currently working on building real-world applications like:
-
-🧾 A Point of Sale (POS) System for retail operations
-
-🏟️ An Indoor Facility Booking Platform for sports/stadium reservations
-
-💻 I specialize in modern web technologies:
-
+** A Point of Sale (POS) System for retail operations
+ An Indoor Facility Booking Platform for sports/stadium reservations
+ I specialize in modern web technologies:
+**
 Frontend: React.js, Next.js, Angular
-
 Backend: Node.js, .NET Framework
-
 DevOps & Cloud: Docker, Azure, basic CI/CD practices
-
-🚀 I love crafting scalable, user-centric applications that solve real problems and bring value to end users.
-
-🎯 My goal is to continuously grow as a developer, contribute to impactful projects, and collaborate with teams building the future of tech.
-
 
 
 
