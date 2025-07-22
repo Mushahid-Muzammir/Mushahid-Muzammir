@@ -1,13 +1,8 @@
 👋 Hi there! I'm Mushahid, a passionate full-stack developer and aspiring Software Engineer currently working on building real-world applications like:
 
-** A Point of Sale (POS) System for retail operations
- An Indoor Facility Booking Platform for sports/stadium reservations
- I specialize in modern web technologies:
-**
-Frontend: React.js, Next.js, Angular
-Backend: Node.js, .NET Framework
-DevOps & Cloud: Docker, Azure, basic CI/CD practices
-
+A Point of Sale (POS) System for retail operations
+An Indoor Facility Booking Platform for sports/stadium reservations
+I specialize in modern web technologies:
 
 
 ## 🌐 Socials:
