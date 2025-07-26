@@ -1,4 +1,4 @@
-👋 Hi there! I'm Mushahid - an aspiring Software Engineer passionate about building full-stack applications using React, Angular, .NET, Node.js, Docker and Azure.
+👋 Hi there! This is Mushahid - Software Engineer passionate about building full-stack applications using React, Angular, .NET, Node.js, Docker and Azure.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mushahid-muzammir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mushahidmuzammir@gmail.com) 
 
